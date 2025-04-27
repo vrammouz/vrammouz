@@ -30,11 +30,11 @@ I'm a developer/researcher/analyst who is passionate about AI safety, security a
 ## 📈 GitHub Stats
 
 <!-- These are optional. You can remove them if you prefer minimal -->
-
+<!--
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vrammouz&show_icons=true&hide_border=true&theme=default)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vrammouz&layout=compact&hide_border=true&theme=default)
-
+-->
 ---
 
 ## ✨ Fun Facts
