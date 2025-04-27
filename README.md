@@ -1,6 +1,6 @@
 <!-- Your header or cool banner -->
 
-# Hi there, I'm Veronica. 
+# Hi there, I'm Veronica 🦇
 
 I'm a developer/researcher/analyst who is passionate about AI safety, security and privacy!  
 
