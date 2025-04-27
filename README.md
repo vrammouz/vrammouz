@@ -46,7 +46,7 @@ I'm a developer/researcher/analyst who is passionate about AI safety, security a
 
 ## 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)]([https://linkedin.com/in/veronica-r-885799172/](https://linkedin.com/in/veronica-r-885799172/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/veronica-r-885799172/)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:veronica.rammouz@utsa.edu)
 
 ---
