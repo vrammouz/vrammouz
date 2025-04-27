@@ -2,7 +2,7 @@
 
 # Hi there, I'm Veronica. 
 
-I'm a Developer/Researcher/Explorer passionate about AI safety, security and privacy!  
+I'm a developer/researcher who is passionate about AI safety, security and privacy!  
 
 
 ---
