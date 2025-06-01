@@ -20,10 +20,10 @@ I'm a developer/researcher/analyst who is passionate about AI safety, security a
 ---
 
 ## Current Research Interests
-🧬 Large Language Models (LLMs) and alignment
-🔒 Security and Privacy in AI systems
-🤖 Multi-agent systems
-📊 Data-centric AI
+- Large Language Models (LLMs) and alignment
+- Security and Privacy in AI systems
+- Multi-agent systems
+- Data-centric AI
 
 ---
 <!--
@@ -39,9 +39,9 @@ I'm a developer/researcher/analyst who is passionate about AI safety, security a
 ---
 
 ## Fun Facts
-📚 I love connecting theory and practice through research.
-🛸 Always curious about how complex systems work.
-🎮 I like playing video games.
+- I love connecting theory and practice through research.
+- Always curious about how complex systems work.
+- I like playing video games.
 
 ---
 
