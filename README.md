@@ -7,7 +7,7 @@ I'm a developer/researcher/analyst who is passionate about AI safety, security a
 
 ---
 
-## 🛠️ Skills & Technologies
+## Skills & Technologies
 
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
@@ -19,11 +19,11 @@ I'm a developer/researcher/analyst who is passionate about AI safety, security a
 
 ---
 
-## 🧠 Current Research Interests
-- 🧬 Large Language Models (LLMs) and alignment
-- 🔒 Security and Privacy in AI systems
-- 🤖 Multi-agent systems
-- 📊 Data-centric AI
+## Current Research Interests
+🧬 Large Language Models (LLMs) and alignment
+🔒 Security and Privacy in AI systems
+🤖 Multi-agent systems
+📊 Data-centric AI
 
 ---
 <!--
@@ -38,14 +38,14 @@ I'm a developer/researcher/analyst who is passionate about AI safety, security a
 -->
 ---
 
-## ✨ Fun Facts
-- 📚 I love connecting theory and practice through research.
-- 🛸 Always curious about how complex systems work.
-- 🎮 I like playing video games.
+## Fun Facts
+📚 I love connecting theory and practice through research.
+🛸 Always curious about how complex systems work.
+🎮 I like playing video games.
 
 ---
 
-## 📫 Let's Connect!
+## Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/veronica-r-885799172/)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:veronica.rammouz@utsa.edu)
