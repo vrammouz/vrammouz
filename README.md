@@ -14,7 +14,7 @@
 
 ---
 
-## Current Research Interests
+## Research Interests
 - Natural Language Processing
 - Trustworthy AI
 - Cyber Threat Analytics
