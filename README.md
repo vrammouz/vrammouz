@@ -1,10 +1,5 @@
 <!-- Your header or cool banner -->
 
-# Hi there, I'm Veronica 🦇
-
-I'm a developer/researcher/analyst who is passionate about AI safety, security and privacy!  
-
-
 ---
 
 ## Skills & Technologies
@@ -20,10 +15,9 @@ I'm a developer/researcher/analyst who is passionate about AI safety, security a
 ---
 
 ## Current Research Interests
-- Large Language Models (LLMs) and alignment
-- Security and Privacy in AI systems
-- Multi-agent systems
-- Data-centric AI
+- Natural Language Processing
+- Trustworthy AI
+- Cyber Threat Analytics
 
 ---
 
@@ -35,22 +29,6 @@ I'm a developer/researcher/analyst who is passionate about AI safety, security a
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vrammouz&layout=compact&hide_border=true&theme=default)
 
-
----
-
-## Fun Facts
-- I love connecting theory and practice through research.
-- Always curious about how complex systems work.
-- I like playing video games.
-
----
-
-## Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/veronica-r-885799172/)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:veronica.rammouz@utsa.edu)
-
----
 
 <!-- Optional footer quote -->
 > *"Those who can imagine anything, can create the impossible."* — Alan Turing
