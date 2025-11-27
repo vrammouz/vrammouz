@@ -31,7 +31,7 @@ These are optional. You can remove them if you prefer minimal
 -->
 
 <!-- Optional footer quote -->
-> *"Those who can imagine anything, can create the impossible."* — Alan Turing
+> *"Those who can imagine anything, can create the impossible."* - Alan Turing
 
 
 <!--
