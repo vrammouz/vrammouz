@@ -21,14 +21,14 @@
 
 ---
 
-## 📈 GitHub Stats
+<!--## 📈 GitHub Stats
 
-<!-- These are optional. You can remove them if you prefer minimal -->
+These are optional. You can remove them if you prefer minimal 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vrammouz&show_icons=true&hide_border=true&theme=default)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vrammouz&layout=compact&hide_border=true&theme=default)
-
+-->
 
 <!-- Optional footer quote -->
 > *"Those who can imagine anything, can create the impossible."* — Alan Turing
