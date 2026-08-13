@@ -17,7 +17,7 @@
 ## Research Interests
 - Natural Language Processing
 - Trustworthy AI
-- Cybersecurity
+- Security and Privacy
 
 ---
 
