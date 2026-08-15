@@ -9,9 +9,10 @@
 ![SQL](https://img.shields.io/badge/-SQL-F7DF1E?logo=sql&logoColor=black&style=flat)
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
 ### Tools & Platforms
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
-
+![vLLM](https://img.shields.io/badge/vLLM-GPU_Inference-FF6F00?style=flat-square)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ---
 
 ## Research Interests
