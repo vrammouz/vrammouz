@@ -7,7 +7,7 @@
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 ![SQL](https://img.shields.io/badge/-SQL-F7DF1E?logo=sql&logoColor=black&style=flat)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=coffee&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=Kotlin&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-%23c9d1d9?logo=gnubash&logoColor=black)
 
