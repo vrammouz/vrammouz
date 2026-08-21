@@ -27,7 +27,7 @@
 - Security and Privacy
 
 ---
-Hobbies include [![Nintendo](https://custom-icon-badges.demolab.com/badge/Nintendo-E60012?logo=nintendo&logoColor=fff)](#) :)
+<!--## Hobbies include [![Nintendo](https://custom-icon-badges.demolab.com/badge/Nintendo-E60012?logo=nintendo&logoColor=fff)](#) :)
 <!--## 📈 GitHub Stats
 
 These are optional. You can remove them if you prefer minimal 
