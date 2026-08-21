@@ -9,7 +9,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-F7DF1E?logo=sql&logoColor=black&style=flat)
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=Kotlin&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-%23c9d1d9?logo=gnubash&logoColor=black)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
